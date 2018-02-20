@@ -1,0 +1,11 @@
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\bin\Debug\netcoreapp2.0\ApiRest_Ferralla.deps.json
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\bin\Debug\netcoreapp2.0\ApiRest_Ferralla.runtimeconfig.json
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\bin\Debug\netcoreapp2.0\ApiRest_Ferralla.runtimeconfig.dev.json
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\bin\Debug\netcoreapp2.0\ApiRest_Ferralla.dll
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\obj\Debug\netcoreapp2.0\ApiRest_Ferralla.csprojResolveAssemblyReference.cache
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\obj\Debug\netcoreapp2.0\ApiRest_Ferralla.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\obj\Debug\netcoreapp2.0\ApiRest_Ferralla.AssemblyInfoInputs.cache
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\obj\Debug\netcoreapp2.0\ApiRest_Ferralla.AssemblyInfo.cs
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\bin\Debug\netcoreapp2.0\ApiRest_Ferralla.pdb
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\obj\Debug\netcoreapp2.0\ApiRest_Ferralla.dll
+C:\Users\jose\Documents\Visual Studio 2017\Projects\ApiRest_Ferralla\ApiRest_Ferralla\obj\Debug\netcoreapp2.0\ApiRest_Ferralla.pdb
